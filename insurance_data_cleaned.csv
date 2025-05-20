@@ -1,4 +1,4 @@
-customer,st,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
 RB50392,Washington,,Master,588174,0,1000,0,Personal Auto,Four-Door Car,2
 QZ44356,Arizona,,Bachelor,697953,0,94,0,Personal Auto,Four-Door Car,1131
 AI49188,Nevada,,Bachelor,1288743,48767,108,0,Personal Auto,Two-Door Car,566
@@ -1070,4 +1070,4 @@ VJ51327,California,,High School or Below,2031499,63209,102,2,Personal Auto,SUV,2
 GS98873,Arizona,,Bachelor,323912,16061,88,0,Personal Auto,Four-Door Car,633
 CW49887,California,,Master,462680,79487,114,0,Special Auto,SUV,547
 MY31220,California,,College,899704,54230,112,0,Personal Auto,Two-Door Car,537
-AA71604,California,,,588174,36234,83,0,,,354
+,,,,588174,36234,83,0,,,354
